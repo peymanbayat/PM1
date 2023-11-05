@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 
 #import app.SessionState.py as SessionState
-import SessionState
+#import SessionState
 import app.SessionState.py as SessionState
 
 from app.cluster import make_clustering
