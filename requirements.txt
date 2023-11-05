@@ -17,4 +17,3 @@ scipy
 streamlit
 tensorflow_hub
 tensorflow_text
-SessionState
