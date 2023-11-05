@@ -7,7 +7,7 @@ import streamlit as st
 
 #import app.SessionState.py as SessionState
 #import SessionState
-import app.SessionState.py as SessionState
+import app.SessionState as SessionState
 
 from app.cluster import make_clustering
 from app.data import load_data
