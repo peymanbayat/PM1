@@ -5,7 +5,7 @@ Main application.
 import pandas as pd
 import streamlit as st
 
-import app.SessionState as SessionState
+import app.SessionState.py as SessionState
 from app.cluster import make_clustering
 from app.data import load_data
 from app.download import csv_download_link
